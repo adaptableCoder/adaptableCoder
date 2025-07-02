@@ -125,7 +125,7 @@ I'm currently exploring **embedded systems**, **digital/analog electronics**, an
 
 - [LinkedIn](https://www.linkedin.com/in/atharv-mehrotra-32a327322/) 
 - [GitHub Projects](https://github.com/adaptableCoder)  
-- [Email](adaptableatharv@gmail.com)
+- Email: adaptableatharv@gmail.com
 
 ---
 
