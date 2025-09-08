@@ -7,7 +7,7 @@
 
 ## 🧭 About Me
 
-I'm currently exploring **embedded systems**, **digital/analog electronics**, and **software development**. I learn best by building from scratch—deconstructing systems and reconstructing them to understand how things truly work.
+I'm currently exploring **embedded systems**, **digital/analog electronics**, and **software development**. I learn best by building from scratch - deconstructing systems and reconstructing them to understand how things truly work.
 
 - 🎓 Undergrad at a Tier-1 Engineering Institute  
 - ⚡ Focused on building circuit-level and microcontroller-based projects  
