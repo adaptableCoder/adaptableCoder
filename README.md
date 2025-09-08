@@ -102,7 +102,7 @@ I'm currently exploring **embedded systems**, **digital/analog electronics**, an
   - KiCad  
   - Icarus Verilog
   - ALU Design  
-  - Signal analysis tools (LTSpice) 
+  - Signal analysis tools (LTSpice, MultiSIM) 
   </td>
 </tr>
 </table>
