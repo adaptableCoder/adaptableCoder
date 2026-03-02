@@ -1,132 +1,113 @@
-<h1 align="center">Hi, I'm Atharv Mehrotra 👋</h1>
+<h1 align="center">Hi, I'm Atharv Mehrotra</h1>
 <h3 align="center">
-  Embedded Systems · Full-Stack Development
+  Embedded Systems · VLSI RTL Design · Web Development
 </h3>
 
 ---
 
 ## 🧭 About Me
 
-I'm currently exploring **embedded systems**, **digital/analog electronics**, and **software development**. I learn best by building from scratch - deconstructing systems and reconstructing them to understand how things truly work.
+Undergraduate engineering student working across Embedded Systems, Digital Logic Design, VLSI RTL Design and PCB development.
 
-- 🎓 Undergrad at an Engineering Institute  
-- ⚡ Focused on building circuit-level and microcontroller-based projects  
-- 💡 Currently working to integrate my **software development skills with embedded systems** to build complete, end-to-end solutions
+Primary focus areas:
+- VLSI RTL Design
+- Embedded Systems
 
-
----
-
-
-## 🔧 Projects in Progress
-
-| Type | Project | Status |
-|------|---------|--------|
-| **Digital Logic** | Simple ALU implementation (planned) | 🧠 Learning phase |
-| **ESP32** | BT & Wi-Fi test apps | 🚧 In progress |
-| **Web Dev** | Own website using NextJS | 🚧 In progress |
-
-> 📌 I’ll be uploading repositories and documenting these builds soon.
-
+Background experience:
+- MERN-based Web Development
 
 ---
 
+## 🔧 Projects
+(In pinned repositories below)
+
+| Domain | Project | Summary |
+|--------|----------|---------|
+| **RTL Design** | Traffic-Light-Controller-Verilog | Configurable two-way traffic controller using a Moore FSM, synchronous architecture, parameterized timing, and independent testbenches (Vivado verified). |
+| **PCB Design** | USB-to-UART-CH340G-PCB | 2-layer CH340G-based USB-to-UART converter with USB-A edge connector, selectable logic levels, ESD protection, fabrication-ready Gerbers. |
+| **Embedded Systems** | ESP-Connect | React Native Android app enabling Bluetooth Classic (SPP) communication with ESP32 for real-time serial exchange. |
+| **Web Development** | Khaadhyam – Waste2Worth | Web platform leveraging AI APIs to help users locate nearby food donation centers using structured backend logic. |
+
+---
 
 ## 🧠 Skills & Tools
 
 <table>
 <tr>
-  <th>
-
-  ### 💻 Software Development
-  </th>
-  <th>
-
-  ### 🔌 Hardware & Embedded Systems
-  </th>
+  <th>💻 Software</th>
+  <th>🔌 Hardware</th>
 </tr>
 
 <tr>
-  <td valign="top" width="50%">
+<td valign="top" width="50%">
 
-  ### Languages  
-  **Advanced Beginner:**  
-  - JavaScript  
-  - HTML  
-  - CSS  
+### Languages
+- C  
+- C++  
+- Verilog  
+- Python  
+- JavaScript  
+- TypeScript  
+- SQL  
 
-  **Beginner:**  
-  - Python  
-  - SQL
-  - TypeScript  
-  </td>
+### Frameworks & Tools
+- React  
+- Next.js  
+- Node.js  
+- MongoDB  
+- Git  
 
-  <td valign="top" width="50%">
+</td>
 
-  ### Languages  
-  **Advanced Beginner:**  
-  - C  
-  - C++  
+<td valign="top" width="50%">
 
-  **Beginner:**  
-  - Verilog  
-  </td>
-</tr>
+### Embedded & RTL
+- ESP32  
+- Basic Analog Circuits  
 
-<tr>
-  <td valign="50%">
+### PCB & Hardware
+- KiCAD
+- 2-Layer PCB Design
 
-  ### Tools & Frameworks  
-  **Advanced Beginner:**  
-  - Git & GitHub  
-  - VS Code  
-  - NextJS  
-  - React  
-  - Clerk (Authentication)  
+### VLSI
+- Synthesizable RTL Design in Verilog
+- AMD Vivado
+- Icarus Verilog 
+- ModelSim
+- GTKWave
 
-  **Beginner:**  
-  - React Native  
-  - Node.js  
-  - MongoDB  
-  </td>
-  
-  <td valign="top">
-
-  ### Tools & Hardware  
-  **Advanced Beginner:**  
-  - ESP32 (with Arduino/PlatformIO)  
-  - Breadboard prototyping  
-  - Basic circuit components (resistors, capacitors, ICs)  
-  - Logic Gates  
-
-  **Beginner:**  
-  - KiCad  
-  - Icarus Verilog
-  - ALU Design  
-  - Signal analysis tools (LTSpice, MultiSIM) 
-  </td>
+</td>
 </tr>
 </table>
 
+---
+
+## 🧩 Current Technical Direction
+
+- Expanding RTL design beyond FSM-based systems  
+- Strengthening computer architecture fundamentals  
+- Improving PCB layout discipline  
+- Exploring VLSI physical design concepts  
 
 ---
 
+## 📊 GitHub Overview
 
-## 🧩 Learning Interests
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adaptableCoder&theme=github" />
+</p>
 
-- ESP32 fundamentals & real-time control  
-- Analog + Digital circuits on breadboard  
-- Backend web frameworks  
-- GitHub repo structure & documentation
-- VLSI specific domains
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adaptableCoder&theme=github" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adaptableCoder&theme=github" height="150"/>
+</p>
 
 ---
 
 ## 🔗 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/atharv-mehrotra-32a327322/) 
-- [GitHub Projects](https://github.com/adaptableCoder)  
-- Email: adaptableatharv@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/atharv-mehrotra-32a327322/)  
+- [GitHub](https://github.com/adaptableCoder)  
+- [Email](mailto:adaptableatharv@gmail.com)
 
 ---
-
-<p align="center"><i>I’m not trying to show everything. I’m building it step-by-step.</i></p>
