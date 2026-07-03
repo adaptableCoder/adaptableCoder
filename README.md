@@ -84,7 +84,7 @@ Background experience:
 
 ### Frameworks & Tools
 - <img src="https://cdn.simpleicons.org/react/61DAFB" height="14" /> React  
-- <img src="https://cdn.simpleicons.org/nextdotjs/white" height="14" /> Next.js  
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white" /><img src="https://cdn.simpleicons.org/nextdotjs/000000" height="14" /></picture> Next.js  
 - <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="14" /> Node.js  
 - <img src="https://cdn.simpleicons.org/mongodb/47A248" height="14" /> MongoDB  
 - <img src="https://cdn.simpleicons.org/git/F05032" height="14" /> Git  
@@ -102,7 +102,7 @@ Background experience:
 
 ### VLSI
 - Synthesizable RTL Design in Verilog  
-- <img src="https://cdn.simpleicons.org/amd/white" height="14" /> AMD Vivado  
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/amd/white" /><img src="https://cdn.simpleicons.org/amd/ED1C24" height="14" /></picture> AMD Vivado  
 - Icarus Verilog  
 - GTKWave  
 
